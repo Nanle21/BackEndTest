@@ -1,0 +1,9 @@
+organizations:
+  -
+    name: Facebook
+    description: 'Facebook [ˈfeɪsbʊk] est une société américaine créée en 2004 par Mark Zuckerberg. Initialement concentrée sur le réseau social Facebook, la compagnie a racheté Instagram en 2012, ainsi que WhatsApp et Oculus VR en 2014'
+    users: [{ name: Nathalie, role: [ADMIN, CEO], password: demo }, { name: Martin, role: [ADMIN, CTO], password: demo2 }, { name: Sophie, role: [SALES], password: demo3 }, { name: 'Nanle Luke', role: [Client, Admin, Guest], password: preciosu }]
+  -
+    name: Linkedin
+    description: "LinkedIn est un service américain axé sur les affaires et l'emploi qui fonctionne via des sites Web et des applications mobiles. Fondé le 28 décembre 2002 et lancé le 5 mai 2003, il est principalement utilisé pour le réseautage professionnel, y compris les employeurs qui affichent des emplois et les demandeurs d'emploi qui affichent leur CV.\n"
+    users: [{ name: Nathalie, role: [ADMIN, CEO], password: demo }, { name: Martin, role: [ADMIN, CTO], password: demo2 }, { name: Sophie, role: [SALES], password: demo3 }, { name: 'Precious Nanle', role: [Admin, Guest], password: precious }]
